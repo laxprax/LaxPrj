@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 02AE-CC69
+
+ Directory of C:\Lax\git
+
+28/02/2021  11:12 AM    <DIR>          .
+28/02/2021  11:12 AM    <DIR>          ..
+28/02/2021  10:52 AM               378 index.html
+28/02/2021  10:51 AM                 6 test1.txt
+28/02/2021  11:12 AM                 0 test2.txt
+               3 File(s)            384 bytes
+               2 Dir(s)  379,920,359,424 bytes free
